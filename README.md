@@ -31,7 +31,7 @@ Using an alternative time-series reduction strategy, I tracked the daily usage o
 **Symptom Tracking Timeline:**
 ![Symptom Timeline](flu_cough_sneeze_sick_timeline.png)
 
-## Background
+## Additional Background
 **About the Data:**
 
 Approximately 500 million tweets are sent everyday.
